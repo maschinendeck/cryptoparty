@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35422822"
-     inkscape:cx="1270.3317"
-     inkscape:cy="2312.9553"
+     inkscape:zoom="0.25"
+     inkscape:cx="1044.4886"
+     inkscape:cy="2369.5829"
      inkscape:document-units="mm"
      inkscape:current-layer="layer8"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="1920"
+     inkscape:window-width="1600"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true">
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -323,97 +323,101 @@
          y="198.75919"
          style="stroke-width:0.26458332px">+</tspan></text>
     <g
-       id="g958"
-       transform="translate(0.77640673,-77.787506)">
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-26.407928,53.916544)"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot2215"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:14.28482914px"
-           id="flowRegion2217"><rect
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.77952766px"
-             y="268.13788"
-             x="946.19397"
-             height="1166.1763"
-             width="1310.3035"
-             id="rect2219" /></flowRegion><flowPara
-           id="flowPara948">Cryptoparties sind offen für alle, kostenlos und sollen Spaß machen. Jeder kann es lernen. Also Komm vorbei und bring am besten deinen Laptop oder dein Smartphone mit.</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-80.64975,70.553208)"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;line-height:25px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot940"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"
-           id="flowRegion942"><rect
-             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"
-             y="143.81599"
-             x="1151.7998"
-             height="237.13525"
-             width="327.4725"
-             id="rect944" /></flowRegion><flowPara
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"
-           id="flowPara946">WER?</flowPara></flowRoot>    </g>
-    <g
-       id="g972"
-       transform="translate(-0.21445719,9.0600371)">
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-26.762338,164.06573)"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot2215-9"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:14.28482914px"
-           id="flowRegion2217-9"><rect
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.77952766px"
-             y="268.13788"
-             x="946.19397"
-             height="1205.6987"
-             width="1349.8259"
-             id="rect2219-4" /></flowRegion><flowPara
-           id="flowPara1009">Bei Cryptoparties handelt es sich um eine dezentrale, globale Initiative.</flowPara><flowPara
-           id="flowPara1011">Das Ziel ist es allen Menschen den Zugang zu Verschlüsselung von Daten und Anonymität im Internet zu ermöglichen.</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-81.00416,180.7024)"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;line-height:25px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot940-1"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"
-           id="flowRegion942-0"><rect
-             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"
-             y="143.81599"
-             x="1151.7998"
-             height="237.13525"
-             width="327.4725"
-             id="rect944-3" /></flowRegion><flowPara
-           id="flowPara1007">WAS?</flowPara></flowRoot>    </g>
-    <g
-       id="g982"
-       transform="translate(0,21.166668)">
-      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-28.145694,375.57951)"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot2215-9-5"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:14.28482914px"
-           id="flowRegion2217-9-3"><rect
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.77952766px"
-             y="268.13788"
-             x="946.19397"
-             height="1205.6987"
-             width="1344.1799"
-             id="rect2219-4-3" /></flowRegion><flowPara
-           id="flowPara1064">Auf Cryptoparties lernst du, wie du E-Mails, Chats und Dateien verschlüsseln kannst. Auch kannst du lernen wie du dich anonym im Internet bewegst und was das Ganze mit Zwiebeln zu tun hat. Jeder hat das Recht auf Privatsphäre!</flowPara></flowRoot>      <flowRoot
-         transform="matrix(0.26458333,0,0,0.26458333,-82.387524,392.21618)"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;line-height:25px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         id="flowRoot940-1-7"
-         xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"
-           id="flowRegion942-0-9"><rect
-             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"
-             y="143.81599"
-             x="1151.7998"
-             height="110.0985"
-             width="479.91663"
-             id="rect944-3-3" /></flowRegion><flowPara
-           id="flowPara961">WARUM?</flowPara></flowRoot>    </g>
+       id="g1233"
+       transform="translate(7.2213845)">
+      <g
+         transform="translate(0.77640673,-77.787506)"
+         id="g958">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot2215"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.26458333,0,0,0.26458333,-26.407928,53.916544)"><flowRegion
+             id="flowRegion2217"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:14.28482914px"><rect
+               id="rect2219"
+               width="1310.3035"
+               height="1166.1763"
+               x="946.19397"
+               y="268.13788"
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.77952766px" /></flowRegion><flowPara
+             id="flowPara948">Cryptoparties sind offen für alle, kostenlos und sollen Spaß machen. Jeder kann es lernen. Also komm vorbei und bring am besten deinen Laptop oder dein Smartphone mit.</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot940"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;line-height:25px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.26458333,0,0,0.26458333,-80.64975,70.553208)"><flowRegion
+             id="flowRegion942"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"><rect
+               id="rect944"
+               width="327.4725"
+               height="237.13525"
+               x="1151.7998"
+               y="143.81599"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara946"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1">WER?</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(-0.21445719,9.0600371)"
+         id="g972">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot2215-9"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.26458333,0,0,0.26458333,-26.762338,164.06573)"><flowRegion
+             id="flowRegion2217-9"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:14.28482914px"><rect
+               id="rect2219-4"
+               width="1349.8259"
+               height="1205.6987"
+               x="946.19397"
+               y="268.13788"
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.77952766px" /></flowRegion><flowPara
+             id="flowPara1009">Bei Cryptoparties handelt es sich um eine dezentrale, globale Initiative.</flowPara><flowPara
+             id="flowPara1011">Das Ziel ist es allen Menschen den Zugang zu Verschlüsselung von Daten und Anonymität im Internet zu ermöglichen.</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot940-1"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;line-height:25px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.26458333,0,0,0.26458333,-81.00416,180.7024)"><flowRegion
+             id="flowRegion942-0"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"><rect
+               id="rect944-3"
+               width="327.4725"
+               height="237.13525"
+               x="1151.7998"
+               y="143.81599"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara1007">WAS?</flowPara></flowRoot>      </g>
+      <g
+         transform="translate(0,21.166668)"
+         id="g982">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot2215-9-5"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.77952766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.26458333,0,0,0.26458333,-28.145694,375.57951)"><flowRegion
+             id="flowRegion2217-9-3"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:14.28482914px"><rect
+               id="rect2219-4-3"
+               width="1344.1799"
+               height="1205.6987"
+               x="946.19397"
+               y="268.13788"
+               style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:85.33333588px;line-height:100px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:3.77952766px" /></flowRegion><flowPara
+             id="flowPara1064">Auf Cryptoparties lernst du, wie du E-Mails, Chats und Dateien verschlüsseln kannst. Auch kannst du lernen wie du dich anonym im Internet bewegst und was das Ganze mit Zwiebeln zu tun hat. Jeder hat das Recht auf Privatsphäre!</flowPara></flowRoot>        <flowRoot
+           xml:space="preserve"
+           id="flowRoot940-1-7"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;line-height:25px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#1b1b1b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="matrix(0.26458333,0,0,0.26458333,-82.387524,392.21618)"><flowRegion
+             id="flowRegion942-0-9"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1"><rect
+               id="rect944-3-3"
+               width="479.91663"
+               height="110.0985"
+               x="1151.7998"
+               y="143.81599"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:96px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#1b1b1b;fill-opacity:1" /></flowRegion><flowPara
+             id="flowPara961">WARUM?</flowPara></flowRoot>      </g>
+    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot984"
