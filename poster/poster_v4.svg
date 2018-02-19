@@ -25,13 +25,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.25"
      inkscape:cx="1044.4886"
-     inkscape:cy="1700.4256"
+     inkscape:cy="1540.4256"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
-     inkscape:window-x="1920"
+     inkscape:window-width="1600"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="true">
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -408,18 +408,18 @@
              id="rect988-9" /></flowRegion><flowPara
            id="flowPara1042"></flowPara></flowRoot>      <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,-5.3677498,50.852591)"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:74.66666412px;line-height:25px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:74.66666761px;line-height:25px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
          id="flowRoot994-5"
          xml:space="preserve"><flowRegion
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:74.66666412px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:74.66666761px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;"
            id="flowRegion996-4"><rect
-             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:74.66666412px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1"
+             style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:74.66666761px;font-family:Roboto;-inkscape-font-specification:'Roboto, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#ffffff;fill-opacity:1;"
              y="2597.0366"
              x="1044.5243"
              height="197.61275"
              width="1727.6998"
              id="rect998-3" /></flowRegion><flowPara
-           id="flowPara1044">cryptoparty.maschinendeck.org</flowPara></flowRoot>    </g>
+           id="flowPara974">cryptoparty.in/trier</flowPara></flowRoot>    </g>
     <g
        id="g1096"
        transform="translate(-230.44154,-54.61551)">
